@@ -1,0 +1,332 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #010419;
+  width: 1440px;
+  height: 1911px;
+  position: relative;
+  overflow: hidden;
+}
+.discover-and-collect-rare-nf-ts {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Outfit-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 188px;
+  top: 156px;
+  width: 385px;
+  height: 134px;
+}
+.the-most-secure-marketplace-for-buying-and-selling-unique-crypto-assets {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 188px;
+  top: 432px;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #471883;
+  border-radius: 84px;
+  width: 195px;
+  height: 64px;
+  position: absolute;
+  left: 202px;
+  top: 554px;
+}
+.rectangle-2 {
+  background: #471883;
+  border-radius: 84px;
+  width: 195px;
+  height: 64px;
+  position: absolute;
+  left: 202px;
+  top: 554px;
+}
+.buy-nfts {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 244px;
+  top: 576px;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-12 {
+  border-radius: 84px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 195px;
+  height: 64px;
+  position: absolute;
+  left: 451px;
+  top: 554px;
+}
+.rectangle-22 {
+  border-radius: 84px;
+  width: 195px;
+  height: 64px;
+  position: absolute;
+  left: 451px;
+  top: 554px;
+}
+.sell-nfts {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 493px;
+  top: 576px;
+}
+.featured-on {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 188px;
+  top: 723px;
+  width: 223px;
+  height: 54px;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-3 {
+  background: rgba(10, 88, 179, 0.55);
+  width: 298px;
+  height: 103px;
+  position: absolute;
+  left: 188px;
+  top: 768px;
+}
+.forbes {
+  color: #ffffff;
+  text-align: left;
+  font-family: "InknutAntiqua-ExtraBold", sans-serif;
+  font-size: 36px;
+  font-weight: 800;
+  position: absolute;
+  left: 188.88px;
+  top: 780.29px;
+  width: 144.82px;
+  height: 72.54px;
+}
+.rectangle-4 {
+  background: radial-gradient(
+    closest-side,
+    rgba(217, 217, 217, 1) 0%,
+    rgba(217, 217, 217, 0) 100%
+  );
+  width: 165.63px;
+  height: 429px;
+  position: absolute;
+  left: -402.81px;
+  top: 365.47px;
+  transform-origin: 0 0;
+  transform: rotate(-1.145deg) scale(1, 1);
+}
+.rectangle-5 {
+  background: radial-gradient(
+    closest-side,
+    rgba(217, 217, 217, 1) 0%,
+    rgba(217, 217, 217, 0) 100%
+  );
+  width: 165.63px;
+  height: 429px;
+  position: absolute;
+  left: -402.81px;
+  top: 365.47px;
+  transform-origin: 0 0;
+  transform: rotate(-1.145deg) scale(1, 1);
+}
+.ellipse-1 {
+  border-radius: 50%;
+  width: 540px;
+  height: 447px;
+  position: absolute;
+  left: 713px;
+  top: 156px;
+  object-fit: cover;
+}
+.rectangle-6 {
+  border-radius: 84px;
+  width: 885px;
+  height: 393px;
+  position: absolute;
+  left: 278px;
+  top: 946px;
+  object-fit: cover;
+}
+.group-10 {
+  position: absolute;
+  inset: 0;
+}
+.group-8 {
+  width: 195px;
+  height: 64px;
+  position: static;
+}
+.rectangle-13 {
+  background: #471883;
+  border-radius: 84px;
+  width: 195px;
+  height: 64px;
+  position: absolute;
+  left: 629px;
+  top: 1657px;
+}
+.rectangle-23 {
+  background: #471883;
+  border-radius: 84px;
+  width: 195px;
+  height: 64px;
+  position: absolute;
+  left: 629px;
+  top: 1657px;
+}
+.group-7 {
+  width: 189px;
+  height: 231px;
+  position: static;
+}
+.get-start {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 674px;
+  top: 1677px;
+}
+.are-you-ready {
+  color: #ffffff;
+  text-align: right;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 635px;
+  top: 1490px;
+  width: 162px;
+}
+.be-a-part-of-next-big-thing {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 662px;
+  top: 1538px;
+  width: 162px;
+  height: 183px;
+}
+.group-9 {
+  position: absolute;
+  inset: 0;
+}
+.group-1 {
+  width: 1064px;
+  height: 49px;
+  position: static;
+}
+.krypto {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 189px;
+  top: 30.6px;
+  width: 56px;
+  height: 43.4px;
+}
+.buy-nfts2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 1198px;
+  top: 25px;
+  width: 55px;
+  height: 43.4px;
+}
+.pricing {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 1034px;
+  top: 25px;
+  width: 45px;
+  height: 43.4px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 926px;
+  top: 25px;
+  width: 39px;
+  height: 43.4px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 1110px;
+  top: 25.6px;
+  width: 51px;
+  height: 31.72px;
+}
+.rectangle-7 {
+  background: linear-gradient(
+    94.52deg,
+    rgba(6, 50, 110, 1) 0%,
+    rgba(169, 174, 193, 0) 100%
+  );
+  width: 1065px;
+  height: 321px;
+  position: absolute;
+  left: 188px;
+  top: 1446px;
+}
